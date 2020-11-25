@@ -436,7 +436,7 @@
           "readOnly": false
         },
         "quotaPeriod": {
-          "description": "The time period over which the quota usage values are summarized. For example, P1D (per one day), PT1M (per one minute), PT1S (per one second). This parameter is optional because, for some resources such as compute, the time period is irrelevant.",
+          "description": "The time period over which the quota usage values are summarized. For example, P1D (per one day), PT1M (per one minute), and PT1S (per one second). This parameter is optional because, for some resources such as compute, the time period is irrelevant.",
           "type": "string",
           "readOnly": true
         },
